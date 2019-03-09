@@ -1,0 +1,30 @@
+/* Other styling elements, that are not necessary for the example */
+
+* {
+
+}
+
+body {
+    font-family: Arial, Verdana,  sans-serif;
+    /*font-size: 11pt;*/
+    font-size: 1.2rem;
+
+    background-color: #f0f0f0;
+    color: #333;
+
+    margin: 16px;
+
+    /* invert */
+    /*filter: invert(1) hue-rotate(20deg);*/
+    /*background: #111;*/
+}
+
+h1 {
+
+}
+
+ul {
+    list-style: none;
+}
+
+
